@@ -11,6 +11,8 @@
           <img src="/public/favicon.ico" class="size-7">
           <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" class="size-7">
           <img src="https://icon.icepanel.io/Technology/svg/Python.svg" class="size-7">
+          <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" class="size-7">
+          <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" class="size-7">
         </div>
         <div class="card-actions justify-end">
           <button class="btn btn-primary">Conheça</button>
