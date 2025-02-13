@@ -3,6 +3,6 @@ module.exports = {
     require('daisyui'),
   ],
   daisyui: {
-    themes: ["garden"],
+    themes: ["night"],
   },
 }
