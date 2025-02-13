@@ -14,7 +14,7 @@
                         <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" class="w-1/2">
                     </a>
                     <a>
-                        <img src="https://img.icons8.com/?size=100&id=SzgQDfObXUbA&format=png&color=000000" class="w-1/2">
+                        <img src="https://img.icons8.com/?size=100&id=FVTvJkWPqGJ3&format=png&color=000000" class="w-1/2">
                     </a>
                 </div>
             </div>
