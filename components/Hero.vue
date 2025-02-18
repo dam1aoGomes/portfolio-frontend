@@ -5,20 +5,19 @@
             <div>
                 <h1 class="text-3xl font-bold md:ml-20">Damião Gomes</h1>
                 <p class="text-md max-w-2xl mt-2 text-justify md:ml-20">
-                    Desenvolvedor Full Stack com experiência em TypeScript, Node.js, Flask e FastAPI.
-                    Apaixonado por criar soluções eficientes e escaláveis, utilizando Tailwind para um design moderno e
-                    responsivo.
+                    Desenvolvedor Full Stack com experiência em Vue, Nuxt, Tailwind, TypeScript, Node.js, Flask, FastAPI, PostGresSQL e MySQL.
+                    Apaixonado por criar soluções eficientes e escaláveis.
                 </p>
                 <p class="text-md max-w-2xl mt-2 text-justify md:ml-20">
-                    Estudante de Ciência da Computação na Universidade Federal do Ceará,
-                    sempre em busca de novos desafios e aprendizado contínuo.</p>
+                    Cursando Ciência da Computação na Universidade Federal do Ceará, 
+                    e com curso técnico em informática por escola profissionalizante.</p>
                 <div class="flex w-1/3 md:w-1/6 md:justify-between mt-10 md:ml-20">
-                    <a>
+                    <NuxtLink to="https://www.linkedin.com/in/damiao-gomes/">
                         <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" class="w-1/2">
-                    </a>
-                    <a>
+                    </NuxtLink>
+                    <NuxtLink to="https://github.com/dam1aoGomes/">
                         <img src="https://img.icons8.com/?size=100&id=FVTvJkWPqGJ3&format=png&color=000000" class="w-1/2">
-                    </a>
+                    </NuxtLink>
                 </div>
             </div>
         </div>
